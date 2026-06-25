@@ -543,7 +543,7 @@ export function WishingScreen({ onRestart }: Props) {
               </p>
               <div className="mt-6">
                 <StoryButton onClick={onRestart} variant="ghost">
-                  Replay Journey
+                  Replay
                 </StoryButton>
               </div>
             </div>
